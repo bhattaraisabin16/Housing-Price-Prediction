@@ -19,7 +19,7 @@ Two models are trained and compared — Linear Regression and Random Forest Regr
 
 ## Dataset
 
-**Source:** California Census Housing Data (1990)  
+**Source:** [California Census Housing Data (1990)](https://www.geeksforgeeks.org/machine-learning/dataset-for-linear-regression/)  
 **Rows:** 20,640 districts  
 **Columns:** 10 features including location, income, housing age, and ocean proximity  
 **Target:** `median_house_value` — median house price per district in USD
