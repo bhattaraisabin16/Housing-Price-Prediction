@@ -1,7 +1,7 @@
 # California Housing Price Prediction
 
 # Dataset  : California Census Housing Data (1990)
-# Goal     : Predict median house value using machine learning
+# Goal     : Predict median house value
 # Models   : Linear Regression vs Random Forest Regressor
 # Result   : Random Forest → R² = 0.81, RMSE = $50,253
 
