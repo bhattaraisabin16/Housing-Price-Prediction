@@ -80,7 +80,7 @@ python california_housing_price_prediction.py
 
 ```
 ├── california_housing_price_prediction.py   # Main script
-├── housing.csv                              # Dataset
+├── housing[1].csv                              # Dataset
 └── README.md                                # This file
 ```
 
