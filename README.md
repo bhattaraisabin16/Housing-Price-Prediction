@@ -64,7 +64,7 @@ The strongest predictor of house price is **median income** (0.52 importance sco
 ## How to Run
 
 1. Clone this repository
-2. Download the dataset: [California Housing Dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
+2. Download the dataset: [California Housing Dataset]
 3. Place `housing.csv` in the same folder as the script
 4. Install dependencies:
 ```
@@ -87,15 +87,3 @@ python california_housing_price_prediction.py
 
 ---
 
-## What I Learned
-
-- How to handle missing values using mean imputation
-- How to encode categorical features with LabelEncoder
-- How to engineer meaningful ratio features from raw counts
-- The difference between Linear Regression and Random Forest
-- How to interpret RMSE and R² in a real world context
-- Why Random Forest outperforms Linear Regression on non-linear data
-
----
-
-*Built as part of a self-taught ML learning journey using Python and scikit-learn.*
