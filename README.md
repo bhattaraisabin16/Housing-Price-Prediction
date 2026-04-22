@@ -57,7 +57,6 @@ Two models are trained and compared — Linear Regression and Random Forest Regr
 
 The strongest predictor of house price is **median income** (0.52 importance score) — not location. A wealthy neighborhood commands a price premium regardless of exact coordinates.
 
-> "Location, location, location" — but income matters more.
 
 ---
 
